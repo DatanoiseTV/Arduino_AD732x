@@ -1,0 +1,7 @@
+{
+    "nrf-connect.topdir": "/home/syso/dev/ztry",
+    "nrf-connect.toolchain.path": "PATH",
+    "files.associations": {
+        "ad732x.h": "c"
+    }
+}
